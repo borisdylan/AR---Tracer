@@ -1,0 +1,7 @@
+{
+  "name": "TraceAR - Application de Décalquage AR",
+  "description": "Une application de réalité augmentée pour décalquer des dessins en superposant une image sur le flux de la caméra.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

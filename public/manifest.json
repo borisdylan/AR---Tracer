@@ -1,0 +1,21 @@
+{
+  "short_name": "TraceAR",
+  "name": "TraceAR - Décalquage AR",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/tracear/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/tracear/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "orientation": "portrait"
+}
